@@ -1,50 +1,41 @@
 @font-face {
-	font-family:"American Typewriter";
-	font-style:normal;
-	font-weight:bold;
-	src : url("../../font/AmericanTypewriter-Bold.ttc");
+    font-family:"American Typewriter";
+    font-style:normal;
+    font-weight:bold;
+    src : url("../../font/AmericanTypewriter-Bold.woff2") format("woff2");
 }
 @font-face {
-	font-family:"American Typewriter";
-	font-style:normal;
-	font-weight:600;
-	src : url("../../font/AmericanTypewriter-Semibold.ttc");
+    font-family:"American Typewriter";
+    font-style:normal;
+    font-weight:600;
+    src : url("../../font/AmericanTypewriter-Semibold.woff2") format("woff2");
 }
 @font-face {
-	font-family:Cochin;
-	font-style:normal;
-	font-weight:500;
-	src : url("../../font/Cochin.ttc");
+    font-family: 'Cochin';
+    src: url('../../font/Cochin.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
 }
+
 @font-face {
-	font-family:Cochin;
-	font-style:normal;
-	font-weight:bold;
-	src : url("../../font/Cochin-Bold.ttc");
+    font-family: 'Cochin';
+    src: url('../../font/Cochin-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
 }
+
 @font-face {
-	font-family:Cochin;
-	font-style:italic;
-	font-weight:bold;
-	src : url("../../font/Cochin-BoldItalic.ttc");
+    font-family: 'Cochin';
+    src: url('../../font/Cochin-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
 }
+
 @font-face {
-	font-family:Cochin;
-	font-style:oblique;
-	font-weight:bold;
-	src : url("../../font/Cochin-BoldItalic.ttc");
-}
-@font-face {
-	font-family:Cochin;
-	font-style:italic;
-	font-weight:500;
-	src : url("../../font/Cochin-Italic.ttc");
-}
-@font-face {
-	font-family:Cochin;
-	font-style:oblique;
-	font-weight:500;
-	src : url("../../font/Cochin-Italic.ttc");
+    font-family: 'Cochin';
+    src: url('../../font/Cochin-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
 }
 body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote, figure {
 	margin:0;
